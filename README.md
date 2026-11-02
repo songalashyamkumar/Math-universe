@@ -112,5 +112,5 @@ function retryQuiz(){if(sourceChapter===null)startMixed();else startChapter(sour
 function goHome(){document.getElementById("quiz").classList.add("hidden");document.getElementById("results").classList.add("hidden");document.getElementById("home").classList.remove("hidden");window.scrollTo({top:0,behavior:"smooth"})}
 function escapeHTML(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
 </script>
-</body><meta name="google-site-verification" content="pOUkRhH-oTi5OLO_KJ8JYAjLMycZ2XUAtbYJS6EM3QY" />
+</body>
 </html>
