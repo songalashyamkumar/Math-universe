@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="google-site-verification" content="pOUkRhH-oTi5OLO_KJ8JYAjLMycZ2XUAtbYJS6EM3QY" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Math Universe: Class 8 Ganita Prakash mathematics practice, chapter quizzes and mixed practice.">
